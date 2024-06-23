@@ -90,9 +90,5 @@ class LMSFilter:
 
 
 
-```plaintext
-matplotlib==3.4.3
-numpy==1.21.2
-PySoundFile==0.10.3.post1
-tk==0.1.0
+
 
