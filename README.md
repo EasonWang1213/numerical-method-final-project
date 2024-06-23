@@ -2,6 +2,11 @@
 
 LMS NoisePurify is an audio noise reduction application that utilizes the LMS (Least Mean Squares) adaptive filtering technique to remove noise from audio signals. This application provides a simple and intuitive user interface, allowing you to easily load, process, and play audio files.
 
+# Video Link
+
+[Watch the video](https://youtu.be/MEQV0mZmJ1o?si=2qiZMI3gFMwOLywW)
+
+
 ## Features
 
 - **Load Audio Files**: Load audio files with noise and pure noise files.
