@@ -9,7 +9,6 @@ LMS NoisePurify is an audio noise reduction application that utilizes the LMS (L
 
 
 
-## **If  encountering any issues while running the program, you can download the entire file from the cloud drive at the following URL:** [https://drive.google.com/drive/folders/1EfXj1RgwpP4WTPcVhc0gqGm9GCp3DlHO?usp=sharing](https://drive.google.com/drive/folders/1EfXj1RgwpP4WTPcVhc0gqGm9GCp3DlHO?usp=sharing)
 
 
 
@@ -52,6 +51,8 @@ LMS NoisePurify is an audio noise reduction application that utilizes the LMS (L
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     pip install -r requirements.txt
     ```
+
+## **If  encountering any issues while running the program, you can download the entire file from the cloud drive at the following URL:** [https://drive.google.com/drive/folders/1EfXj1RgwpP4WTPcVhc0gqGm9GCp3DlHO?usp=sharing](https://drive.google.com/drive/folders/1EfXj1RgwpP4WTPcVhc0gqGm9GCp3DlHO?usp=sharing)
 
 ### Usage
 
@@ -97,7 +98,10 @@ class LMSFilter:
 
         return output, error
 
+
+
 ### `requirements.txt`
+
 
 
 
