@@ -9,7 +9,8 @@ LMS NoisePurify is an audio noise reduction application that utilizes the LMS (L
 
 
 
-##**如果執行程式有問題，可以去雲端硬碟下載整個檔案，網址如下：** [https://drive.google.com/drive/folders/1EfXj1RgwpP4WTPcVhc0gqGm9GCp3DlHO?usp=sharing](https://drive.google.com/drive/folders/1EfXj1RgwpP4WTPcVhc0gqGm9GCp3DlHO?usp=sharing)
+## **If  encountering any issues while running the program, you can download the entire file from the cloud drive at the following URL:** [https://drive.google.com/drive/folders/1EfXj1RgwpP4WTPcVhc0gqGm9GCp3DlHO?usp=sharing](https://drive.google.com/drive/folders/1EfXj1RgwpP4WTPcVhc0gqGm9GCp3DlHO?usp=sharing)
+
 
 
 ## Features
