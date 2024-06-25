@@ -4,7 +4,7 @@ LMS NoisePurify is an audio noise reduction application that utilizes the LMS (L
 
 # Video Link
 
-##[Watch the video](https://youtu.be/MEQV0mZmJ1o?si=2qiZMI3gFMwOLywW)
+##**[Watch the video](https://youtu.be/MEQV0mZmJ1o?si=2qiZMI3gFMwOLywW)** 
 
 
 
